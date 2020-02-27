@@ -1,0 +1,38 @@
+
+p {
+    margin-left: 50pc;
+    margin-right: auto;
+    position: relative;
+    font-size: 3.1em;
+    widows: 15px;
+
+}
+
+
+
+
+.card{
+    width: 70%;
+    position: relative;
+    margin: 100px 300px auto;
+    background: #f06a1c;
+    display: block;
+    margin: 300px 600px auto;
+    border: auto;
+    width:60%;
+    position: relative;
+}
+.card-header{
+    background: #ef4847 !important;
+}
+
+.card-body{
+    text-align: center;
+    color:  #ef4847 !important;
+    background: whitesmoke
+}
+
+.border-rose{
+    color:  #ef4847 !important;
+}
+

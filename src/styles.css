@@ -1,1 +1,27 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+    background: url('./assets/img/background.jpg');
+      font-family: 'Trebuchet MS', Arial, sans-serif;
+      color: #181818;
+    
+    }
+
+   
+
+    nav {
+        background: #93a1a1;
+        display: block;
+        margin-bottom: 20px;
+        border: 1px solid #657b83;
+    }
+    nav a {
+        color: #586E75;
+    }
+    
+    aside ul, .pager, nav > ul {
+        list-style: none outside none;
+    }
+    nav > ul {
+        margin:0;
+    }
